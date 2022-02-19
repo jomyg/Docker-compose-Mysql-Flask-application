@@ -23,7 +23,7 @@ sudo chmod +x /usr/bin/docker-compose
 docker-compose version   
 ```
 
-### Behind the code
+### Behind the code vi Dockerfile
 
 ```sh
 version: '3.3'
@@ -93,3 +93,15 @@ de7fc2047ab1   jomyg/flask-database:latest   "python3 app.py"         3 minutes 
 e617eddfcda6   mysql:5.6                     "docker-entrypoint.s…"   3 minutes ago   Up 3 minutes   0.0.0.0:3306->3306/tcp, :::3306->3306/tcp   database
 ~]#
 ```
+
+## Conclusion
+
+After the container creation,you can call the server IP to see the database details of "college".
+
+
+#### ⚙️ Connect with Me
+
+<p align="center">
+<a href="mailto:jomyambattil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jomygeorge11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://www.instagram.com/therealjomy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a><br />

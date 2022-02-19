@@ -96,7 +96,7 @@ e617eddfcda6   mysql:5.6                     "docker-entrypoint.s…"   3 minute
 
 ## Conclusion
 
-After the container creation,you can call the server IP to see the database details of "college".
+After the container creation,you can call the server IP to see the details of database "college".
 
 ### Behind the flask application "app.py"
 
